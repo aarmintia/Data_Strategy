@@ -36,7 +36,7 @@ Data strategy should:
 
 Data management
 <ul>
-  <li></li>fosters preparation of high-quality, scalable, secure, and trusted data</li>
+  <li>fosters preparation of high-quality, scalable, secure, and trusted data</li>
   <li>defines your approach to data strategy</li>
     <ul>
       <li>people</li>
