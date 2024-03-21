@@ -33,3 +33,16 @@ Data strategy should:
   <li>reporting and descriptive analytics</li>
   <li>diagnostic, predictive, prescriptive, and cognitive analytics</li>
 </ul>
+
+Data management
+<ul>
+  <li></li>fosters preparation of high-quality, scalable, secure, and trusted data</li>
+  <li>defines your approach to data strategy</li>
+    <ul>
+      <li>people</li>
+      <li>processes</li>
+      <li>technology</li>
+      <li>systems</li>
+      <li>performance</li>
+    </ul>
+</ul>
