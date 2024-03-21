@@ -19,3 +19,17 @@
   <li>Veracity</li>
   <li>Variability</li>
 </ul>
+
+<h3>Data Strategy Components</h3>
+<ul>
+  <li>Business strategy</li>
+  <li>Data application</li>
+  <li>Data management</li>
+</ul>
+
+Data strategy should:
+<ul>
+  <li>define formats, tools, and interfaces</li>
+  <li>reporting and descriptive analytics</li>
+  <li>diagnostic, predictive, prescriptive, and cognitive analytics</li>
+</ul>
